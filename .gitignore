@@ -1,2 +1,5 @@
-
+sos
 *.json
+.idea
+/output
+/build
